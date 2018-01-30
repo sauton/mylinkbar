@@ -1,3 +1,3 @@
 <h1>Mylink.bar </h1>
 ##comment?
-<test></test>
+release 1.0.6
