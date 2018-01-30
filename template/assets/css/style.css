@@ -1,0 +1,27 @@
+.container{
+    width:100%;
+}
+
+.container .header-title{
+    border:aqua solid thin;
+    text-align: center;
+    background-color : darkgoldenrod;
+    color:ghostwhite;
+    font-size:24px;
+    font-weight: bolder;
+}
+label{
+    width: 100%;
+}
+body{
+    background-color:antiquewhite;
+}
+.table-hack{
+    border-collapse: collapse;
+}
+.table-hack td,th {
+    border: black solid 1px;
+}
+.table-hack tr{
+
+}
